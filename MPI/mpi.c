@@ -23,3 +23,5 @@ return 0;
 //Compilar MPI - mpicc mpi.c -o saida.out
 
 //Rodar MPI    - mpirun ./saida.out
+
+//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
